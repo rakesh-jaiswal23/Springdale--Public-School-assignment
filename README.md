@@ -26,14 +26,21 @@ To run this project locally:
 
    ```
 
-2. **Install dependecy**
+2. **Navigate inside directory**
+
+   ```bash
+   cd Springdale--Public-School-assignment
+
+   ```
+
+3. **Install dependecy**
 
    ```bash
    npm install
 
    ```
 
-3. **Run Project**
+4. **Run Project**
    ```bash
    npm run dev
    ```
