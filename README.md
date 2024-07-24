@@ -1,8 +1,39 @@
-# React + Vite
+# Springdale Public School Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Springdale Public School website repository. This project aims to provide a comprehensive, user-friendly, and responsive website for Springdale Public School.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Design**: Accessible on all devices.
+- **Interactive Elements**: Carousels, quick links, and forms.
+- **Comprehensive Information**: Curriculum, teaching methodologies, and facilities.
+- **Contact Form**: Easy communication with school administration.
+
+## Technologies Used
+
+- **Frontend**: React
+- **Styling**: CSS, Tailwind CSS
+- **Deployment**: Vercel
+
+## Installation
+
+To run this project locally:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/rakesh-jaiswal23/Springdale--Public-School-assignment.git
+
+   ```
+
+2. **Install dependecy**
+
+   ```bash
+   npm install
+
+   ```
+
+3. **Run Project**
+   ```bash
+   npm run dev
+   ```
